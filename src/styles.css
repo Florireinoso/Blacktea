@@ -1,0 +1,18 @@
+
+
+h1{
+    color: rgb(0, 53, 86);
+    font-family: 'Shantell Sans';
+}
+
+.Botones{
+    font-family: 'Shantell Sans';
+    color: rgb(162, 53, 53);
+}
+
+.Bienvenida{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(0, 53, 86) ;
+    font-size: 30px;
+}
